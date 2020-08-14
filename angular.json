@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "M5-W2-YoutubePlaylist"
+    }
+  },
+  "defaultProject": "M5-W2-YoutubePlaylist",
+  "cli": {
+    "analytics": false
+  }
 }
